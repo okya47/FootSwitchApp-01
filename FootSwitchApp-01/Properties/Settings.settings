@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FootSwitchApp_01.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FormatAuthFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"{0}"</Value>
+    </Setting>
+    <Setting Name="FormatAuthArguments" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"auth" "{0}"</Value>
+    </Setting>
+    <Setting Name="FormatRegFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"{0}"</Value>
+    </Setting>
+    <Setting Name="FormatRegArguments" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"register""{0}" "{1}" "{2}"</Value>
+    </Setting>
+    <Setting Name="PathExe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\User\Documents\MyProject\FootSwitchApp-01\NeoFace Cloud Type A サンプルC#アプリ\NeoFaceCloudSample\bin\Debug\NeoFaceCloudSample.exe</Value>
+    </Setting>
+    <Setting Name="PathImg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\User\Documents\MyProject\FootSwitchApp-01\FootSwitchApp-01\bin\Debug\result\result_0.bmp</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
